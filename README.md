@@ -20,7 +20,7 @@ How to install
 
 Easy way to use it
 
-Visit duplicate this space and make it private, anyone can see your generated pics. [Huggingface](https://huggingface.co/spaces/vorstcavry/ComfyUI-XL-Vae-Public)
+Visit [Huggingface](https://huggingface.co/spaces/vorstcavry/ComfyUI-XL-Vae-Public), duplicate this space and make it private, anyone can see your generated pics. 
 Duplicate this space if you want to edit and improve it.
 
 Go to Settings above, and Change space visibility.
